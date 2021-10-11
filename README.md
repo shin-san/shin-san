@@ -28,16 +28,5 @@ Here are some ideas to get you started:
 - more Jenkins stuff
 - Kustomize
 
-#### 👯 I’m looking to collaborate on
-- No idea so far
-
 #### 🤔 I’m looking for help with
 - getting up to speed with Rust and Go 😔
-
-#### 📫 How to reach me:
-- Here, I guess?
-- email: nchan009@gmail.com
-
-#### ⚡ Fun fact:
-- I placed 2nd in a Beyblade tournament when I was a kid
-- I can eat 50 pcs. of Chicken Nuggets in one sitting
