@@ -1,6 +1,15 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shin-san/shin-san/blob/main/devcard.svg" width="300" alt="JC's Dev Card"/></a>
 
 ### Hi there 👋
+
+<div>
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img
+      align="right"
+      width="256"
+      alt="JC's Dev Card"
+      src="https://github.com/shin-san/shin-san/blob/main/devcard.svg"/>
+  </a>
+</div>
 
 <!--
 **shin-san/shin-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
