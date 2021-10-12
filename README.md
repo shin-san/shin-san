@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🔭 I’m currently working on
-- creating an end-to-end GitOps solution (Github Actions/Cuustom actions/TektonCD)
+- creating an end-to-end GitOps solution (Github Actions/Custom actions/TektonCD)
 - establishing a reliable k3s server in RPI4
 - automating k3s and deployment manifests
 
