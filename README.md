@@ -5,7 +5,7 @@
   <a href="https://app.daily.dev/DailyDevTips">
     <img
       align="right"
-      width="256"
+      width="300"
       alt="JC's Dev Card"
       src="https://github.com/shin-san/shin-san/blob/main/devcard.svg"/>
   </a>
