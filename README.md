@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://app.daily.dev/DailyDevTips">
+  <a href="https://app.daily.dev/naythanc">
     <img
       align="right"
       width="300"
