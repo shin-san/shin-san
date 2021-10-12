@@ -1,6 +1,3 @@
-
-### Hi there 👋
-
 <div>
   <a href="https://app.daily.dev/naythanc">
     <img
@@ -10,6 +7,8 @@
       src="https://github.com/shin-san/shin-san/blob/main/devcard.svg"/>
   </a>
 </div>
+
+### Hi there 👋
 
 <!--
 **shin-san/shin-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
