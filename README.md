@@ -41,3 +41,11 @@ Here are some ideas to get you started:
 
 #### 🤔 I’m looking for help with
 - getting up to speed with Rust and Go 😔
+
+<div>
+  <a href="https://github.com/shin-san/shin-san/blob/main/github-metrics.svg">
+    <img
+      alt="github-metrics"
+      src="https://github.com/shin-san/shin-san/blob/main/github-metrics.svg"/>
+  </a>
+</div>
