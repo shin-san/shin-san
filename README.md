@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shin-san/shin-san/blob/master/devcard.svg" width="300" alt="JC's Dev Card"/></a>
+
 ### Hi there 👋
 
 <!--
