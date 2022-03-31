@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - Kustomize
 - WebAssembly
 - Tekton Pipelines
-- 
 
 #### 🤔 I’m looking for help with
 - getting up to speed with Rust and Go 😔
