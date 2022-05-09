@@ -37,8 +37,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bcgit/bc-java</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bouncy Castle Java Distribution (Mirror)</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ibm-messaging/mq-dev-patterns</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code samples and messaging patterns for IBM MQ developers</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gpimblott/SpringCamelMXExample</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example Spring Boot, Apache Camel application using IBM MX broker to send and receive messages</div>
@@ -467,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ibm-messaging/mq-container</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Apr 08 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Container images for IBM® MQ</div>
@@ -566,7 +566,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.89493497604383 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.10711841204657 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1019,7 +1019,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2022, 10:40:30 (timezone Australia/Brisbane) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 9 May 2022, 10:44:12 (timezone Australia/Brisbane) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
