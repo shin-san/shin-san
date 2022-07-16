@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 -->
 
 #### 🔭 I’m currently working on
-- creating an end-to-end GitOps solution (Github Actions/Custom actions/FluxCD)
+- creating an end-to-end GitOps solution (Github Actions/Custom actions/ArgoCD)
 - establishing a reliable k3s cluster in RPI4
 - automating k3s and deployment manifests
-- establishing message queue applications (Artemis and Kafka)
+- establishing message queue applications (Artemis and/or Kafka)
 - writing Rust applications
 - end-to-end MQ application
 - API gateway
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - Rust
 - Go
 - Quarkus containerisation
-- more Jenkins/CICD stuff
+- More Jenkins/CICD stuff
 - Kustomize
 - WebAssembly
 - Tekton Pipelines
