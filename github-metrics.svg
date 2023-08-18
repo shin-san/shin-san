@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stripe/stripe-java</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java library for the Stripe API.</div>
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/gson</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Java serialization/deserialization library to convert Java Objects into JSON and back</div>
@@ -455,7 +455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheAlgorithms/Java</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All Algorithms implemented in Java</div>
@@ -576,7 +576,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2023, 10:32:30 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Aug 2023, 10:32:54 (timezone Australia/Brisbane) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
